@@ -1,6 +1,7 @@
 <?php
-$name = "Szymon";
+$name = "Janusz";
 $class = "3F";
-$surname = "Szewczyk";
+$surname = "Kowalski";
 print $name . " " . $surname . " " . $class;
 ?>
+
